@@ -2,6 +2,13 @@ Primera linea de texto
 Segundo linea de texto
 Tercera linea de texto
 Cuarta linea de texto
+<<<<<<< HEAD
 Añadiendo primera linea de texto
 Añadiendo segunda linea de texto
 
+=======
+Quinta linea de texto
+Sexta linea de texto
+Septima linea de texto
+Octava linea de texto
+>>>>>>> mohamed_mokhtar_rama
